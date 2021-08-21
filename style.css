@@ -152,6 +152,9 @@ h6 {
   flex-basis: 50%;
   position: relative;
 }
+.col-1 h3{
+  color: #070706;
+}
 .col-2 {
   position: relative;
   flex-basis: 50%;
@@ -182,6 +185,7 @@ h6 {
   }
   .col-1 h3 {
     font-size: 25px;
+     color: black;
   }
 }
 /* nashik places container */
